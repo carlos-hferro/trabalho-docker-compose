@@ -2,27 +2,19 @@
 
 ## O que é Docker?
 
-## Docker
-
 Docker é uma plataforma utilizada para desenvolver, distribuir e executar aplicações. Sua principal função é permitir que a aplicação seja executada de forma padronizada em diferentes ambientes, facilitando o desenvolvimento, os testes e a implantação dos sistemas.
 
 ## O que são Containers?
 
-## Containers
-
 Containers são ambientes isolados utilizados para executar aplicações. Eles armazenam tudo o que é necessário para o funcionamento do sistema, como arquivos, bibliotecas e dependências, garantindo que a aplicação seja executada da mesma forma em diferentes ambientes.
 
 ## Diferença entre Imagem e Container
-
-## Imagem e Container
 
 Uma imagem é um modelo utilizado para criar containers. Ela contém as configurações, arquivos e dependências necessárias para executar uma aplicação.
 
 Já o container é a execução dessa imagem. Ele funciona como um ambiente isolado onde a aplicação é executada de forma segura e independente.
 
 ## O que é um Dockerfile?
-
-## Dockerfile
 
 Dockerfile é um arquivo de texto utilizado para definir como uma imagem Docker será criada. Nele são descritas as configurações, dependências e comandos necessários para preparar o ambiente onde a aplicação será executada.
 
